@@ -5,12 +5,12 @@
 
 #define MAX 15
 char line[100];
-int global_array[MAX]; //Array global
+//int global_array[MAX]; //Array global
 
 int main(int args, char *argv[]){
 
 	//Array alocado dinamicamente
-	int *dynamic_array= malloc(sizeof(int)* MAX);
+	//int *dynamic_array= malloc(sizeof(int)* MAX);
 
 	//Array Estático
 	int static_array[MAX];
