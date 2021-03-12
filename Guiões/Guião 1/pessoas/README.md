@@ -1,4 +1,4 @@
-#NOTA: O ficheiro script.sh é um script que gera uma lista de pessoas com idades aleatória
+NOTA: O ficheiro script.sh é um script que gera uma lista de pessoas com idades aleatória
 
 Basicamente o script faz o comando "./pessoas -i "Pessoa(número)" idade", gerando idades aleatórias para cada pessoa.
 
