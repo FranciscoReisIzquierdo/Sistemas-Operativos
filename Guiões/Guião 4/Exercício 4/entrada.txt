@@ -1,0 +1,1 @@
+Isto é apenas um documento de teste, que testa a execução do programa com o comando "wc -c"
